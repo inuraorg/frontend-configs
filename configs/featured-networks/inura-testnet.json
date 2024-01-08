@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Inura Goerli",
+        "url": "https://testnet-explorer.inurascan.io/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/inuraorg/frontend-configs/master/configs/network-icons/inura.svg",
+        "isActive": true,
+        "invertIconInDarkMode": true
+    }
+]
